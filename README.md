@@ -35,9 +35,9 @@ Inventory point  - a physical place where meals are stored for sales (smart frid
 
 [Asynchronous communication between inventory points](adr/async_comm_inventory_points.md)
 
-[Progressive Web App](adr/progressive_web_app)
+[Progressive Web App](adr/progressive_web_app.md)
 
-## Diagram
+## Diagrams
 
 1. [Farmacy Food Landscape diagram](diagrams/landscape.png)
 2. [Farmacy Food Information system diagram](diagrams/system.png)
